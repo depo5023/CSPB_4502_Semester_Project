@@ -19,10 +19,10 @@
   * Are there any demographic trends correlated with electric vehicle adoption?
 
 ## Application of this knowledge:
-  * PLACEHOLDER
+  * Environmental Sustainability: Insihgt into the consumer's motives and trens can help drive initiatives focused on reducing carbon emmisions and getting more sustainabillity.
     
 ## Link to the video demonstration:
-  * PLACEHOLDER
+  * PLACEHOLDER YOUTUBE LINK
     
 ## Link to your final project paper:
-  * PLACEHOLDER
+  * FINAL PROJECT PAPER
