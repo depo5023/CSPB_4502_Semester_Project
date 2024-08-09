@@ -20,6 +20,8 @@
 
 ## Application of this knowledge:
   * Environmental Sustainability: Insihgt into the consumer's motives and trens can help drive initiatives focused on reducing carbon emmisions and getting more sustainabillity.
+  * Automotive Industry: The manufactureres can tailor their product to meet market demands by utilizng the knowledge of demographic trends, leading to better marketing strategies.
+  * Urban Planning: City planners would be capable of adding geographic distribution data into infrastructure development like putting charging stations in certain locations to support the growth.
     
 ## Link to the video demonstration:
   * PLACEHOLDER YOUTUBE LINK
