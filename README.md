@@ -24,7 +24,7 @@
   * Urban Planning: City planners would be capable of adding geographic distribution data into infrastructure development like putting charging stations in certain locations to support the growth.
     
 ## Link to the video demonstration:
-  * PLACEHOLDER YOUTUBE LINK
+  * https://youtu.be/PQrfo1NiFn0
     
 ## Link to your final project paper:
   * FINAL PROJECT PAPER
