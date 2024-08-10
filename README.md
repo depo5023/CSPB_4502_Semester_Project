@@ -27,4 +27,4 @@
   * https://youtu.be/PQrfo1NiFn0
     
 ## Link to your final project paper:
-  * [FINAL PROJECT PAPER](https://www.overleaf.com/9652367945wgdncxbcqmgr#53620c)
+  * https://www.overleaf.com/9652367945wgdncxbcqmgr#53620c
